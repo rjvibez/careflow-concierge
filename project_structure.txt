@@ -1,0 +1,13 @@
+careflow-concierge/
+│   requirements.txt
+│   agents.py              ← here
+│
+├─ tools/
+│   ├─ __init__.py
+│   ├─ appointment_tools.py
+│   └─ hospital_tools.py
+├─ data/
+│   ├─ appointments.csv
+│   └─ hospital_info.json
+└─ streamlit_app/
+    └─ app.py
