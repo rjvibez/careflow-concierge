@@ -1,0 +1,6 @@
+appointment_id,date,time,patient_id,patient_name,doctor_id,doctor_name,specialization,visit_type,status,channel,reason,location,predicted_wait_time_min
+1,2025-11-27,09:00,P001,Anita Rao,DR001,Dr. Sharma,Cardiology,new,cancelled,online,chest pain,OPD-1,15
+2,2025-11-27,09:30,P002,Rahul Mehta,DR001,Dr. Sharma,Cardiology,followup,cancelled,phone,post-angioplasty,OPD-1,10
+3,2025-11-27,10:00,P003,Sanya Verma,DR001,Dr. Sharma,Cardiology,new,cancelled,in_person,health checkup,OPD-1,12
+4,2025-11-27,10:30,P004,Mohit Jain,DR002,Dr. Patel,Neurology,new,booked,in_person,migraine,OPD-2,20
+5,2025-11-28,11:00,P001,Anita Rao,DR002,Dr. Patel,Neurology,followup,booked,online,migraine review,OPD-2,25

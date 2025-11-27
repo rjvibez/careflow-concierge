@@ -1,0 +1,5 @@
+doctor_id,doctor_name,specialization,department,is_available_today,email
+DR001,Dr. Sharma,Cardiology,Heart Center,false,sharma@careflowhospital.com
+DR002,Dr. Patel,Neurology,Neuro Clinic,true,patel@careflowhospital.com
+DR003,Dr. Kumar,Orthopedics,Ortho Clinic,true,kumar@careflowhospital.com
+DR004,Dr. Singh,General Medicine,OPD,true,singh@careflowhospital.com

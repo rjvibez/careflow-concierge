@@ -1,0 +1,22 @@
+{
+  "greetings": [
+    "Hello! How can I help you today?",
+    "Hi! What can I do for you?"
+    "Hi there! I’m your CareFlow concierge agent. How may I assist you?",
+    "Welcome to CareFlow Hospital. Ask me about doctors, appointments, or support."
+  ],
+  "farewells": [
+    "Thank you for reaching out to CareFlow. Take care!",
+    "You’re welcome! If you need anything else, just come back and chat.",
+    "Glad I could help. Wishing you good health!"
+  ],
+  "thanks_replies": [
+    "You’re welcome! Happy to help.",
+    "Anytime! Let me know if you have more questions.",
+    "Glad I could assist you."
+  ],
+  "smalltalk": [
+    "I’m an AI concierge, here to help with hospital information and appointments.",
+    "I can help you check doctor availability, specializations, and support contacts."
+  ]
+}

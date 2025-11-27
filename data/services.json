@@ -1,0 +1,8 @@
+{
+  "services": [
+    {"name": "Emergency", "hours": "24x7", "location": "Ground Floor, Block A"},
+    {"name": "Lab", "hours": "07:00–19:00", "location": "First Floor, Block B"},
+    {"name": "Pharmacy", "hours": "08:00–22:00", "location": "Ground Floor, Block C"},
+    {"name": "Radiology", "hours": "09:00–18:00", "location": "Second Floor, Block B"}
+  ]
+}
